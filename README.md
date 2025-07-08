@@ -28,13 +28,13 @@ A login button loader page demonstrating a popup modal with a loading GIF using 
 
 ### Screenshot
 
-![](./screenshots/results-summary-component-desktop-img.png)
-![](./screenshots/results-summary-component-mobile-img.png))
+![](Login_page1.png)
+![](Login_page2.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/shrikanth-dev/Loading-Page)
+- Live Site URL: [live site URL](https://shrikanth-dev.github.io/Loading-Page/)
 
 ### Built with
 
